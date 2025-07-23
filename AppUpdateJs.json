@@ -3,6 +3,6 @@
         "version_name": "هذا التحديث مهم جدا",
         "whats_new": "يتوفر تحديث جديد للتطبيق \n يرجى مزامنة كل الوثائق قبل بداء عملية التحديث ",
         "apk_url": "",
-        "is_skipable": false,
+        "is_skipable": true,
         "is_showe": true
     }
